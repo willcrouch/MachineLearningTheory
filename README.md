@@ -19,4 +19,8 @@ President Polls
    Last cycle, 2018-2020
 
 President Polls 1968-2020
-  Averages from 538
+ - Averages from 538
+ - Had to edit and split into 3 files
+ - Polls Older 1968-1984
+ - Polls Middle 198-1996
+ - Polls Newer 1997->
